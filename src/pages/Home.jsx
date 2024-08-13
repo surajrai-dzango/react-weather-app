@@ -34,7 +34,7 @@ const Home = () => {
 
           if ($defaultLocation === undefined || $defaultLocation == "") {
             Swal.fire({
-              title: "Invalid Location!",
+              title: "Invalid Location!!!!",
               html: "<p class=' text-center text-danger'>Please enter a valid location</p>",
               confirmButtonColor: "rgb(83, 166, 250)",
               allowOutsideClick: false,
